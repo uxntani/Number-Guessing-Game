@@ -1,4 +1,4 @@
-# Number Guessing Game 🎯
+# Number Guessing Game 🎯 
 
 A fun and interactive **Number Guessing Game** built with **HTML**, **CSS**, and **JavaScript**.  
 Challenge yourself to guess the secret number within limited tries — with multiple difficulty levels and a live scoreboard to track your progress!
